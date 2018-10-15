@@ -166,7 +166,7 @@ h2:before {
 }
 
 img {
-    width: 140px;
+    width: 120px;
     height: 180px;
     padding: 4px;
     border: 1px solid #369;
