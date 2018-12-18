@@ -1,0 +1,54 @@
+{
+	"code": 1,
+	"msg": "success",
+	"data": {
+		"categories": [{
+			"id": "11",
+			"pid": "10",
+			"cate_name": "帮忙取",
+			"cate_photo": "http:\/\/picture.mouqukeji.com\/baojie.jpg"
+		}, {
+			"id": "12",
+			"pid": "10",
+			"cate_name": "帮忙买",
+			"cate_photo": "http:\/\/picture.mouqukeji.com\/baojie.jpg"
+		}, {
+			"id": "13",
+			"pid": "10",
+			"cate_name": "帮忙寄",
+			"cate_photo": "http:\/\/picture.mouqukeji.com\/baojie.jpg"
+		}, {
+			"id": "14",
+			"pid": "10",
+			"cate_name": "帮忙送",
+			"cate_photo": "http:\/\/picture.mouqukeji.com\/baojie.jpg"
+		}],
+		"banners": [{
+			"id": "1",
+			"banner": "http:\/\/picture.mouqukeji.com\/baojie.jpg",
+			"url": "",
+			"type": "1"
+		}, {
+			"id": "2",
+			"banner": "http:\/\/picture.mouqukeji.com\/baojie.jpg",
+			"url": "",
+			"type": "1"
+		}, {
+			"id": "3",
+			"banner": "http:\/\/picture.mouqukeji.com\/baojie.jpg",
+			"url": "",
+			"type": "1"
+		}],
+		"notices": [{
+			"id": "1",
+			"url": "",
+			"thumb": "http:\/\/picture.mouqukeji.com\/baojie.jpg",
+			"description": "活动1活动1活动1活动1活动1"
+		}, {
+			"id": "2",
+			"url": "",
+			"thumb": "http:\/\/picture.mouqukeji.com\/baojie.jpg",
+			"description": "活动2活动2活动2活动2"
+		}]
+	}
+}
